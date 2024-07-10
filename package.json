@@ -1,0 +1,21 @@
+{
+  "name": "@danny270793/hotreloader",
+  "version": "1.0.0",
+  "description": "Simple nodemon copy",
+  "main": "./src/index.js",
+  "files": [
+    "./src/**/*"
+  ],
+  "scripts": {
+    "start": "node ./src/index.js",
+    "start:watch": "node --watch ./src/index.js",
+    "test": "node --test ./tests",
+    "test:watch": "node --watch --test ./tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.6.0"
+  }
+}
