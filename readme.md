@@ -18,7 +18,7 @@ Import the library
 {
     ...
     "scripts": {
-        "start:watch": "@danny270793/hotreloader -- node ./src/index.js"
+        "start:watch": "@danny270793/hotreloader node ./src/index.js"
     }
     ...
 }
@@ -36,6 +36,6 @@ Licensed under the [MIT](license.md) License
 
 ## Version
 
-HotReloader version 1.0.0
+HotReloader version 1.0.5
 
 Last update 10/07/2024

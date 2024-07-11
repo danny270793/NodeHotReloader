@@ -1,6 +1,6 @@
 {
     "name": "@danny270793/hotreloader",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "description": "Simple nodemon copy",
     "main": "./src/index.js",
     "bin": "./bin/cli.js",
