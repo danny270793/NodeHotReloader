@@ -3,8 +3,10 @@ const { spawn } = require('child_process')
 const path = require('path')
 
 function main() {
-    if(process.argv.length !== 4) {
-        console.error(`invalid arguments lenght ${process.argv.length} expected 4`)
+    if (process.argv.length !== 4) {
+        console.error(
+            `invalid arguments lenght ${process.argv.length} expected 4`,
+        )
         process.exit(1)
     }
 
@@ -12,7 +14,7 @@ function main() {
     const argument = process.argv[3]
 
     const fullPath = path.resolve(__dirname, argument)
-    
+
     const parentDirectory = path.dirname(fullPath)
 
     const watcher = chokidar.watch(parentDirectory)
