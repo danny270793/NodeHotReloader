@@ -2,7 +2,7 @@ const chokidar = require('chokidar')
 const { spawn } = require('child_process')
 const path = require('path')
 
-function main() {
+module.exports = () => {
     if (process.argv.length !== 4) {
         console.error(
             `invalid arguments lenght ${process.argv.length} expected 4`,
@@ -26,5 +26,3 @@ function main() {
         processSpawned = spawn(binary, [argument], { stdio: 'inherit' })
     })
 }
-
-main()

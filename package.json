@@ -3,8 +3,10 @@
     "version": "1.0.0",
     "description": "Simple nodemon copy",
     "main": "./src/index.js",
+    "bin": "./bin/cli.js",
     "files": [
-        "./src/**/*"
+        "./src/**/*",
+        "./bin/**/*"
     ],
     "scripts": {
         "format": "prettier ./ --write",
