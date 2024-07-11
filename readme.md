@@ -24,12 +24,6 @@ Import the library
 }
 ```
 
-Create how many routers you need
-
-```ts
-const apiRouter: Router = new Router()
-```
-
 ## Follow me
 
 - [Youtube](https://www.youtube.com/channel/UC5MAQWU2s2VESTXaUo-ysgg)
