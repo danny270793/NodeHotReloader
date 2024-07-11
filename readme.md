@@ -26,9 +26,9 @@ Import the library
 
 ## Follow me
 
-- [Youtube](https://www.youtube.com/channel/UC5MAQWU2s2VESTXaUo-ysgg)
-- [Github](https://www.github.com/danny270793/)
-- [LinkedIn](https://www.linkedin.com/in/danny270793)
+-   [Youtube](https://www.youtube.com/channel/UC5MAQWU2s2VESTXaUo-ysgg)
+-   [Github](https://www.github.com/danny270793/)
+-   [LinkedIn](https://www.linkedin.com/in/danny270793)
 
 ## LICENSE
 
