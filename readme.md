@@ -1,5 +1,18 @@
 # HotReloader
 
+[![Github pipeline status](https://github.com/danny270793/NodeHotReloader/actions/workflows/releaser.yaml/badge.svg)](https://github.com/danny270793/NodeHotReloader/actions/workflows/releaser.yaml)
+![NPM Type Definitions](https://img.shields.io/npm/types/@danny270793/hotreloader)
+
+[![install size](https://packagephobia.com/badge?p=@danny270793/hotreloader)](https://packagephobia.com/result?p=@danny270793/hotreloader)
+![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/@danny270793/hotreloader)
+![GitHub repo size](https://img.shields.io/github/repo-size/danny270793/NodeHotReloader)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/danny270793/NodeHotReloader)
+![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@danny270793/hotreloader)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/danny270793/NodeHotReloader)
+![NPM Downloads](https://img.shields.io/npm/dy/@danny270793/hotreloader)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/danny270793/NodeHotReloader/total)
+
 Re-execute command when a file changes
 
 ## Instalation
